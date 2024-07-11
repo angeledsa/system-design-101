@@ -1,0 +1,7 @@
+Error: 'MockChat' object has no attribute 'completions'
+
+Error: 'MockChat' object has no attribute 'completions'
+
+Error: 'MockChat' object has no attribute 'completions'
+
+Error: 'MockChat' object has no attribute 'completions'
